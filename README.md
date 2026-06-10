@@ -6,6 +6,7 @@ This repository exists as a lead surface for a paid service:
 
 - Paid offer: https://jaxassistant55.github.io/jax-micro-offer-studio/translation-and-localization-draft-pack.html
 - Live free preview: https://jaxassistant55.github.io/translation-localization-draft-starter/demo/
+- Repo order board: https://github.com/jaxassistant55/translation-localization-draft-starter/issues/1
 - Scope builder: https://jaxassistant55.github.io/jax-micro-offer-studio/localization-qa-brief-builder.html
 - Order-board issue: https://github.com/jaxassistant55/jax-micro-offer-studio/issues/16
 - Price: $100
