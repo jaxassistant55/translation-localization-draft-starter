@@ -5,6 +5,10 @@ title: "Paid inquiry: translation and localization draft pack"
 labels: paid-inquiry, needs-scope
 ---
 
+## Fastest Buyer Links
+
+- Prefilled inquiry page: https://jaxassistant55.github.io/translation-localization-draft-starter/inquiry.html
+
 ## Buyer Request
 
 - Source language:

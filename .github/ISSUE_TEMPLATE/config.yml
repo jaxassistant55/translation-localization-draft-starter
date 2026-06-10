@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Prefilled inquiry page
+    url: https://jaxassistant55.github.io/translation-localization-draft-starter/inquiry.html
+    about: Start from a buyer-facing page before opening a GitHub issue.
+  - name: Repo order board
+    url: https://github.com/jaxassistant55/translation-localization-draft-starter/issues/1
+    about: Comment only when scope, deadline, and payment/proof route can be discussed safely.
+  - name: Paid offer page
+    url: https://jaxassistant55.github.io/jax-micro-offer-studio/translation-and-localization-draft-pack.html
+    about: Review price, scope, proof rule, and delivery boundary.
