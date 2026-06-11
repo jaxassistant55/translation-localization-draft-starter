@@ -1,5 +1,8 @@
 blank_issues_enabled: false
 contact_links:
+  - name: Payment activation after scope acceptance
+    url: https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation
+    about: Generate a buyer payment message from a seller-owned payment route after scope is accepted.
   - name: Prefilled inquiry page
     url: https://jaxassistant55.github.io/translation-localization-draft-starter/inquiry.html
     about: Start from a buyer-facing page before opening a GitHub issue.
