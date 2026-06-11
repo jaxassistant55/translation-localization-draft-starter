@@ -10,6 +10,13 @@ labels: paid-inquiry, needs-scope
 - Payment activation after scope acceptance: https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation
 - Prefilled inquiry page: https://jaxassistant55.github.io/translation-localization-draft-starter/inquiry.html
 
+## First $100 Fast Start
+
+- First $100 Fast Start: https://jaxassistant55.github.io/jax-micro-offer-studio/first-100-fast-start.html
+- First $100 intake form: https://github.com/jaxassistant55/jax-micro-offer-studio/issues/new?template=first-100-fast-start.yml
+- First $100 order board: https://github.com/jaxassistant55/jax-micro-offer-studio/issues/24
+- Release CSV: https://github.com/jaxassistant55/jax-micro-offer-studio/releases/download/first-100-fast-start-v1/first_100_fast_start.csv
+
 ## Buyer Request
 
 - Source language:
