@@ -5,6 +5,7 @@ Free public preview for a fixed-scope Translation and Localization Draft Pack.
 This repository exists as a lead surface for a paid service:
 
 - Paid offer: https://jaxassistant55.github.io/jax-micro-offer-studio/translation-and-localization-draft-pack.html
+- Payment activation after scope acceptance: https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation
 - Prefilled inquiry page: https://jaxassistant55.github.io/translation-localization-draft-starter/inquiry.html
 - Live free preview: https://jaxassistant55.github.io/translation-localization-draft-starter/demo/
 - Repo order board: https://github.com/jaxassistant55/translation-localization-draft-starter/issues/1
