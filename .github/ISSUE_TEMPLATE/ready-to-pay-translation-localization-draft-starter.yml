@@ -20,6 +20,9 @@ body:
         Standalone terms page:
         https://jaxassistant55.github.io/jax-micro-offer-studio/standalone-offer-terms.html#translation-localization-draft-starter
 
+        Route-specific payment handoff after exact acceptance:
+        https://jaxassistant55.github.io/jax-micro-offer-studio/standalone-payment-handoff.html#translation-localization-draft-starter
+
         Exact acceptance statement to paste below:
         I accept the Translation Localization Draft Starter fixed-scope work terms at $100. I understand work or transfer starts only after seller-owned external payment proof exists; I will provide only public or buyer-owned/buyer-authorized non-sensitive inputs; the deliverable is limited to the public preview, README/ORDER scope, and accepted ready-to-pay form details; and credentials, account login work, unauthorized private files, confidential regulated data handling, purchasing, publishing changes, ongoing support, custom implementation beyond the accepted scope, or extra revisions are not included unless separately agreed before payment.
   - type: textarea

@@ -54,6 +54,18 @@ https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation
 
 Paste a seller-owned checkout, invoice, marketplace order, funded milestone, or payment request URL. The generated message is only a payment handoff. Work starts only after external payment proof exists.
 
+<!-- standalone-payment-handoff:start -->
+## Direct Payment Handoff After Exact Acceptance
+
+- Route-specific payment handoff: https://jaxassistant55.github.io/jax-micro-offer-studio/standalone-payment-handoff.html#translation-localization-draft-starter
+- Ready-to-pay form: https://github.com/jaxassistant55/translation-localization-draft-starter/issues/new?template=ready-to-pay-translation-localization-draft-starter.yml
+- Standalone terms: https://jaxassistant55.github.io/jax-micro-offer-studio/standalone-offer-terms.html#translation-localization-draft-starter
+- Proof monitor: https://jaxassistant55.github.io/jax-micro-offer-studio/proof-monitor.html
+- Invoice line: Translation Localization Draft Starter fixed-scope paid work - $100
+- Gross sales needed to reach $100: 1
+
+Use this handoff only after a real buyer selects Translation Localization Draft Starter, pastes the exact acceptance statement, and you have a seller-owned checkout, invoice, marketplace order, funded milestone, or payment request URL. The handoff page and generated message count $0 until external payment proof, delivery proof, and posted/released/payable/cleared funds exist.
+<!-- standalone-payment-handoff:end -->
 ## Buyer Inputs Needed
 
 - Source language:
